@@ -1,4 +1,3 @@
-Skip to content
 <?php
 require 'Meting.php';
 use Metowolf\Meting;

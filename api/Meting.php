@@ -1,4 +1,3 @@
-Skip to content
 <?php
 /**
  * Meting music framework
